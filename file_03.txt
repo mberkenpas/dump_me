@@ -1,2 +1,3 @@
 This is a second file in the master branch (3rd file I created today)
 I am modifying this file to investigate conflict management with a deleted version of this file locally.
+A second change for the same purpose.
